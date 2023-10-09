@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts"],
+  "sourcesContent": ["export const str = 'reactivity';\nconsole.log(str + 2);\nconsole.log(str + 3);\n "],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,MAAM;AACnB,UAAQ,IAAI,MAAM,CAAC;AACnB,UAAQ,IAAI,MAAM,CAAC;",
+  "names": []
+}
